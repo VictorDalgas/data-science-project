@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+## lav den her poå torsdag
 def crawl_print_url(url):
     """
     Crawls the given URL and prints all the href links found on the page.
